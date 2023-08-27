@@ -1,3 +1,6 @@
+**IMPORTANT: We have moved our github account from dexasianfinance to here dexasianfinancial - If you have inquiry, please direct your question to dexasianfinance@gmail.com.**
+
+
 **Dex Asian** - A Decentralized Automated Market Maker
 As a Trade/Swap Platform, DEX Asian will provide the requirement of Asian Dragon where it allows Asian Dragon Loyalty Program members to swap thier loyalty token to AD2 or any other token paired on Dex Asian. This will give full advantage to all Loyalty Program members to exercise thier rights to choose if they wish to keep the loyalty token, use it for gifts and benefits provided by the particiapting outlets or simply swap it to AD2 or any available paired tokens.
  
